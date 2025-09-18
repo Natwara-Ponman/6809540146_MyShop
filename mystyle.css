@@ -26,5 +26,26 @@ h1 {
 .description {
     font-size: 18px;
     margin: 20px 80px;
+}
 
+.description {
+    font-size: 18px;
+    margin: 20px 80px;
+
+}
+
+.highlight {
+    background-color:peachpuff;
+}
+
+video {
+    height: 300px;
+    padding-top: 100px;
+}
+
+button {
+    background-color: burlywood;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
 }
